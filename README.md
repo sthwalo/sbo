@@ -198,7 +198,7 @@ The site generates a static build in the `dist/` folder that can be deployed to 
 **Sylvia Maseko-Mhlanga**  
 Skills Development Facilitator  
 Phone: 0824355370  
-Email: Sylvia@sboblessedconsulting.co.za  
+Email: sylvia@sboblessedconsulting.co.za  
 Address: Suite 1018, 6 Waxbills street, Nelspruit 1200
 
 ## Contributing
